@@ -29,7 +29,5 @@ Install with python
 - Multi Account
 - Tanpa APP_ID Telegram
 
-## Screenshots
 
-![App Screenshot](https://i.ibb.co.com/7vsVvDW/turbo.gif)
 
